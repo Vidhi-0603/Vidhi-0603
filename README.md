@@ -84,7 +84,7 @@ A URL shortening service with click analytics, custom slugs, and link expiry.
 [![Dockerized Demo](https://img.shields.io/badge/Dockerized_Demo-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Vidhi-0603/URLShortenerDemo)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Vidhi-0603/URLShortener)
 
-![RideNow Screenshot](https://github.com/Vidhi-0603/RideNow/blob/main/Screenshot%202025-09-27%20132846.png)
+![URL Shortener Screenshot](https://github.com/Vidhi-0603/URLShortener/blob/main/Screenshot%202025-08-26%20171548.png)
 
 ---
 
