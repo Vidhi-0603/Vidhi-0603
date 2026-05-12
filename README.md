@@ -68,7 +68,7 @@ A full-stack ride-hailing platform replicating core Uber flows — booking, driv
 [![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=for-the-badge&logo=vercel)](https://ridenow-chi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Vidhi-0603/RideNow)
 
-![RideNow Screenshot](https://github.com/Vidhi-0603/RideNow/blob/main/Screenshot%202025-09-27%20132846.png)
+![RideNow Screenshot](https://github.com/Vidhi-0603/RideNow/blob/main/Screenshots/CalculatingFare.png)
 
 ---
 
