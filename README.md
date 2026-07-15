@@ -99,6 +99,7 @@ A URL shortening service with click analytics, custom slugs, and link expiry.
 
 [![Dockerized Demo](https://img.shields.io/badge/Dockerized_Demo-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Vidhi-0603/URLShortenerDemo)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Vidhi-0603/URLShortener)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=for-the-badge&logo=vercel)](https://url-shortener-gray-gamma.vercel.app)
 
 ![URL Shortener Screenshot](https://github.com/Vidhi-0603/URLShortener/blob/main/Screenshot%202025-08-26%20171548.png)
 
